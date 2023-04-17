@@ -1,4 +1,4 @@
-True,  # 0 p1_is_human
+        True,  # 0 p1_is_human
         False,  # 1 p1_is_easy_ai
         False,  # 2 p1_is_normal_ai
         False,  # 3 p1_is_advanced_ai
