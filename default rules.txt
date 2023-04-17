@@ -1,0 +1,81 @@
+True,  # 0 p1_is_human
+        False,  # 1 p1_is_easy_ai
+        False,  # 2 p1_is_normal_ai
+        False,  # 3 p1_is_advanced_ai
+
+        True,   # 4 p2_is_human
+        False,  # 5 p2_is_easy_ai
+        False,  # 6 p2_is_normal_ai
+        False,  # 7 p2_is_advanced_ai
+
+        1,  # 8 ball_count
+
+
+        False,  # 9 ball_speed_snail
+        False,  # 10 ball_speed_slow
+        True,   # 11 ball_speed_noraml
+        False,  # 12 ball_speed_fast
+        False,  # 13 ball_speed_hyper
+
+        True,   # 14 ball_normalization_normal
+        False,  # 15 ball_normalization_straightened
+        False,  # 16 ball_normalization_curved
+        False,  # 17 ball_normalization_constant_acceleration
+        False,  # 18 ball_normalization_none
+
+        False,  # 19 ball_bounce_absorbant
+        True,   # 20 ball_bounce_noraml
+        False,  # 21 ball_bounce_intense
+        False,  # 22 ball_bounce_burst
+        False,  # 23 ball_bounce_none
+
+        True,   # 24 ball_fade_normal
+        False,  # 25 ball_fade_low_res
+        False,  # 26 ball_fade_high_res
+        False,  # 27 ball_fade_high_res_long
+        False,  # 28 ball_fade_none
+
+        "RED",  # 29 ball_color
+
+        False,  # 30 paddle_speed_snail
+        False,  # 31 paddle_speed_slow
+        True,   # 32 paddle_speed_noraml
+        False,  # 33 paddle_speed_fast
+        False,  # 34 paddle_speed_hyper
+
+        False,  # 35 paddle_acceleration_snail
+        True,   # 36 paddle_acceleration_slow
+        False,  # 37 paddle_acceleration_normal
+        False,  # 38 paddle_acceleration_fast
+        False,  # 39 paddle_acceleration_hyper
+
+        True,   # 40 paddle_fade_normal
+        False,  # 41 paddle_fade_low_res
+        False,  # 42 paddle_fade_high_res
+        False,  # 43 paddle_fade_high_res_long
+        False,  # 44 paddle_fade_none
+        "WHITE",# 45 paddle_color_p1
+        "WHITE",# 46 paddle_color_p2
+
+        True,    # 47 Ball-to-Ball Collisions_On
+        False,   # 48 Ball-to-Ball Collisions_Off
+
+        True,    # 49 ball_size_normal
+        False,   # 50 ball_size_large
+        False,   # 51 ball_size_random
+        False,    # 52 ball_size_small
+
+        True,    # 53 portals_none
+        False,   # 54 portals_gate
+        False,   # 55 portals_double_gate
+        False,   # 56 portals_close_1
+        False,   # 57 portals_close_2
+        False,   # 58 portals_double_close
+        False,   # 59 portals_central
+        False,   # 60 portals_double_central
+        False,   # 61 portals_barriers
+
+        True,    # 62 shield_off
+        False,   # 63 shield_charge_slow
+        False,   # 64 shield_charge_normal
+        False    # 65 shield_charge_fast
